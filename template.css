@@ -1,0 +1,77 @@
+html {
+  font-family: helvetica;
+  background-image: url("back.jpg");
+  background-size: cover;
+  color: white;
+}
+img {
+  max-width: 20%;
+  margin-top: 50px;
+}
+
+section div:hover {
+  border: 2px solid white;
+}
+
+main {
+  max-width: 60%;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: auto;
+}
+
+h1 {
+  margin-bottom: 50px;
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+}
+
+header img {
+  max-width: 40%;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+.link2 a{
+  font-family: helvetica;
+  font-size: 3em;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 0.3em;
+
+}
+.groen{
+  color: green;
+}
+
+.link2{
+  margin: 4em 0 4em 0;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+.root{
+  color: red;
+}

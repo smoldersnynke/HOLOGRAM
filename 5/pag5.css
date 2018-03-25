@@ -1,0 +1,72 @@
+body{
+  max-width: 80%;
+  margin: 0 auto;
+  background-image: url(A.jpg);
+  background-size:180%;
+  background-position:center;
+  background-repeat: no-repeat;
+  width:99%;
+  color: white;
+
+}
+
+
+.link2 a{
+  font-family: helvetica;
+  font-size: 3em;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 0.3em;
+
+}
+
+img{
+margin-top: 1em;
+}
+.sub_grid{
+  display: flex;
+  justify-content: center;
+}
+
+.groen{
+  color: green;
+}
+
+.link2{
+  margin: 0em 0 4em 0;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+.root{
+  color: red;
+}
+
+
+h1{
+  font-weight: 600;
+  font-family: helvetica;
+  text-transform: uppercase;
+  font-size: 3em;
+  text-align: center;
+  margin: 2em 0em 3em 0em;
+}
+
+
+h2{
+  font-weight: 600;
+  font-family: helvetica;
+  text-transform: uppercase;
+  color: #3F9DE6;
+  font-size: 2em;
+  text-align: center;
+  margin: 1em 0em 3em 0em;
+}
+
+
+a {
+  color:#3F9DE6;
+}

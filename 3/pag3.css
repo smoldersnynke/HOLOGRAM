@@ -1,0 +1,56 @@
+body{
+  max-width: 80%;
+  margin: 0 auto;
+  background-image: url(A.jpg);
+  background-size:180%;
+  background-position:center;
+  background-repeat: no-repeat;
+  width:99%;
+  color: white;
+
+}
+
+
+.link2 a{
+  font-family: helvetica;
+  font-size: 3em;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 0.3em;
+
+}
+
+main div img{
+margin-top: 2em;
+}
+.sub_grid{
+  display: flex;
+  justify-content: center;
+}
+
+.groen{
+  color: green;
+}
+
+.link2{
+  margin: 14em 0 0 0;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+.root{
+  color: red;
+}
+
+
+h1{
+  font-weight: 600;
+  font-family: helvetica;
+  text-transform: uppercase;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 50px;
+}
